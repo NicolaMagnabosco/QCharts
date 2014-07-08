@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/new/icons">
+        <file>application_exit.ico</file>
+        <file>barChart.png</file>
+        <file>blankChart.png</file>
+        <file>document_save_as.png</file>
+        <file>document_save.png</file>
+        <file>drive_charts.png</file>
+        <file>new.png</file>
+        <file>open.png</file>
+        <file>pieChart.png</file>
+        <file>yearChart.png</file>
+        <file>minus.png</file>
+        <file>plus.png</file>
+        <file>qCharts.png</file>
+    </qresource>
+</RCC>
